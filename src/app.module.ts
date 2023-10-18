@@ -1,10 +1,11 @@
 import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
-import { MongooseModule } from '@nestjs/mongoose'
+import { MongooseModule } from '@nestjs/mongoose';
+import { UsersModule } from './users/users.module';
 
 @Module({
-  imports: [MongooseModule.forRoot('mongodb+srv://skin:O2K1xfwR5hOhdq7u@skincraft.rl0qanz.mongodb.net/')],
+  imports: [MongooseModule.forRoot('mongodb+srv://skin:O2K1xfwR5hOhdq7u@skincraft.rl0qanz.mongodb.net/'), UsersModule],
   controllers: [AppController],
   providers: [AppService],
 })

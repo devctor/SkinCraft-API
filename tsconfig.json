@@ -16,6 +16,12 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
-    "noFallthroughCasesInSwitch": false
-  }
+    "noFallthroughCasesInSwitch": false,
+    "paths": {
+      "@/*": ["src/*"],
+      "@Models/*": ["src/models/*"],
+      "@Interfaces/*": ["src/interfaces/*"]
+    }
+  },
+  "exclude": ["node_modules"]
 }
