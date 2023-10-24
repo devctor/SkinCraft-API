@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Dragon Scale Armor",
+    "type": "Armor",
+    "price": 200,
+    "color": "Silver"
+  },
+  {
+    "name": "Firestorm Blade",
+    "type": "Weapon",
+    "price": 150,
+    "color": "Red"
+  },
+  {
+    "name": "Shadow Cloak",
+    "type": "Clothing",
+    "price": 80,
+    "color": "Black"
+  },
+  {
+    "name": "Frostbitten Staff",
+    "type": "Weapon",
+    "price": 180,
+    "color": "Blue"
+  },
+  {
+    "name": "Phoenix Feather Robes",
+    "type": "Clothing",
+    "price": 120,
+    "color": "Gold"
+  },
+  {
+    "name": "Venomous Dagger",
+    "type": "Weapon",
+    "price": 160,
+    "color": "Green"
+  },
+  {
+    "name": "Aetherial Crown",
+    "type": "Headgear",
+    "price": 90,
+    "color": "Purple"
+  },
+  {
+    "name": "Molten Gauntlets",
+    "type": "Armor",
+    "price": 170,
+    "color": "Orange"
+  },
+  {
+    "name": "Crystal Shard Boots",
+    "type": "Footwear",
+    "price": 100,
+    "color": "Crystal Clear"
+  },
+  {
+    "name": "Ethereal Cape",
+    "type": "Clothing",
+    "price": 110,
+    "color": "Translucent"
+  },
+  {
+    "name": "Darksteel Chestplate",
+    "type": "Armor",
+    "price": 210,
+    "color": "Dark Grey"
+  },
+  {
+    "name": "Thunderstrike Hammer",
+    "type": "Weapon",
+    "price": 160,
+    "color": "Thunder Yellow"
+  },
+  {
+    "name": "Elven Silk Tunic",
+    "type": "Clothing",
+    "price": 90,
+    "color": "Emerald Green"
+  },
+  {
+    "name": "Inferno Scimitar",
+    "type": "Weapon",
+    "price": 175,
+    "color": "Flaming Red"
+  },
+  {
+    "name": "Celestial Tiara",
+    "type": "Headgear",
+    "price": 95,
+    "color": "Sky Blue"
+  },
+  {
+    "name": "Obsidian Gauntlets",
+    "type": "Armor",
+    "price": 190,
+    "color": "Obsidian Black"
+  },
+  {
+    "name": "Stormcaller Boots",
+    "type": "Footwear",
+    "price": 105,
+    "color": "Storm Grey"
+  },
+  {
+    "name": "Sapphire Sash",
+    "type": "Clothing",
+    "price": 80,
+    "color": "Sapphire Blue"
+  }
+]
+
